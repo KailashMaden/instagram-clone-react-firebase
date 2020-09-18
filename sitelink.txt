@@ -1,0 +1,3 @@
+https://instagram-clone-react-ab782.web.app
+
+Little bit issue in messaging, the reason behind is may be the firebase database is not running in real time basis.
